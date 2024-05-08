@@ -1,3 +1,3 @@
 This is a computer: 
 
-[](./images/computer.png)
+![](./images/computer.png)
